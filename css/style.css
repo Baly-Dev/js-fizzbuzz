@@ -1,0 +1,26 @@
+/* globals */
+.box{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 6px;
+}
+
+/* utilities */
+.normal{
+    background-color: rgb(246, 197, 106);
+}
+
+.fizz{
+    background-color: rgb(255, 179, 37);
+}
+
+.buzz{
+    background-color: orange;
+}
+
+.fizz_buzz{
+    background-color: rgb(226, 117, 0);
+}
